@@ -7,4 +7,5 @@ This repository contains my labs and assignments completed during the **Microinf
 - **Lab 1 — Pandas**  
   Introduction to Pandas, data loading, DataFrames, data exploration, filtering, sorting, grouping, missing data, and CSV files.
 
-More labs and assignments will be added throughout the internship.
+- ##Lab 2 - LinearRegression, LogisticsRegression, DecisionTree and Random Forest
+  This lab was about the Linear and Logistic regression. Also the lab included hands on practice on Decision Tree and Random     Forest
